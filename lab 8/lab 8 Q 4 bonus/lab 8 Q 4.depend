@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668181784 source:c:\users\dell\desktop\c iti\c lab 8\lab 8 q 4\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1668242973 source:c:\users\dell\desktop\c iti\c lab 8\lab 8 q 4 bonus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
