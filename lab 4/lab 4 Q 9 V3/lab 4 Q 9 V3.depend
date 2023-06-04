@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667790877 source:c:\users\dell\desktop\c iti\c lab 4\lab 4 q 9 v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+
