@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668242561 source:c:\users\dell\desktop\c iti\c lab 7\lab 7 line editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
